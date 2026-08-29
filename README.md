@@ -219,6 +219,19 @@ For production-level or research-grade Assamese NLP, consider using the followin
 
 ---
 
+## Demo Data
+Taken from: [GUIT-AsTourNE: A Dataset of Assamese Named Entities in the Tourism Domain](https://github.com/nlp30/GUIT-AsTourNE)
+```
+@inproceedings{choudhury2024guit,
+  title={GUIT-AsTourNE: A Dataset of Assamese Named Entities in the Tourism Domain},
+  author={Choudhury, Bhargab and Deka, Vaskar and Sarma, Shikhar Kumar},
+  booktitle={Proceedings of the 38th Pacific Asia Conference on Language, Information and Computation},
+  pages={928--939},
+  year={2024}
+}
+```
+---
+
 <div align="center">
 
 Made with ❤️ at **Gauhati University** — Information Technology Department
